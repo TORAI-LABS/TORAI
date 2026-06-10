@@ -130,7 +130,7 @@ This tool is for **educational and experimental purposes only**. It is not a sub
 
 ## 🧑‍💻 Author
 
-**Rohan Kumar**
+**TORAI**
 
 
 ---
